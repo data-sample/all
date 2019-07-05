@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "type": "LEND",
+    "type": "BORROW",
     "createDate": "2018-12-24T14:53:11.985GMT+0500",
     "expireDate": "2019-03-24T16:45:11.985GMT+0500",
     "fullName": "Рома Блатной",
@@ -11,7 +11,7 @@
   },
   {
     "id": 101,
-    "type": "LEND",
+    "type": "BORROW",
     "createDate": "2018-12-24T14:53:11.985GMT+0500",
     "expireDate": "2019-03-24T16:45:11.985GMT+0500",
     "fullName": "Рома Блатной",
@@ -21,7 +21,7 @@
   },
   {
     "id": 101,
-    "type": "LEND",
+    "type": "BORROW",
     "createDate": "2018-12-24T14:53:11.985GMT+0500",
     "expireDate": "2019-03-24T16:45:11.985GMT+0500",
     "fullName": "Рома Блатной",
@@ -31,7 +31,7 @@
   },
   {
     "id": 101,
-    "type": "LEND",
+    "type": "BORROW",
     "createDate": "2018-12-24T14:53:11.985GMT+0500",
     "expireDate": "2019-03-24T16:45:11.985GMT+0500",
     "fullName": "Рома Блатной",
@@ -41,7 +41,7 @@
   },
   {
     "id": 101,
-    "type": "LEND",
+    "type": "BORROW",
     "createDate": "2018-12-24T14:53:11.985GMT+0500",
     "expireDate": "2019-03-24T16:45:11.985GMT+0500",
     "fullName": "Рома Блатной",
