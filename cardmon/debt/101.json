@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "type": "LEND",
+  "createDate": "2019-02-24T14:53:11.985GMT+0500",
+  "expireDate": "2019-04-24T16:45:11.985GMT+0500",
+  "fullName": "Johny",
+  "amount": 1850000,
+  "paidAmount": 1750000,
+  "leftAmount": 100000, 
+  "currency": "UZS",
+  "note": "Обещал вернуть в срок (посмотрим)"
+}
