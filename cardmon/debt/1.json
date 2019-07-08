@@ -6,7 +6,37 @@
   "fullName": "Рома Блатной",
   "amount": 200000,
   "paidAmount": 50000,
-  "leftAmount": 150000, 
+  "leftAmount": 150000,
   "currency": "USD",
-  "note": "Обещал вернуть в срок (посмотрим)"
+  "note": "Обещал вернуть в срок (посмотрим)",
+  "history": [
+    {
+      "id": 1,
+      "debtId": 1,
+      "amount": 120000,
+      "date": "2019-03-24T16:45:11.985GMT+0500",
+      "note": "Boshimni qotirib baribir oldi shu qarzni"
+    },
+    {
+      "id": 2,
+      "debtId": 1,
+      "amount": -20000,
+      "date": "2019-03-24T16:45:11.985GMT+0500",
+      "note": "Shuni olib tur dedi"
+    },
+    {
+      "id": 3,
+      "debtId": 1,
+      "amount": 80000,
+      "date": "2019-03-24T16:45:11.985GMT+0500",
+      "note": "Yana berib tur hammasini bitta qilib beraman dedi"
+    },
+    {
+      "id": 4,
+      "debtId": 1,
+      "amount": -30000,
+      "date": "2019-03-24T16:45:11.985GMT+0500",
+      "note": "Nomard, o'ttiz ming bilan aldab ketdi"
+    }
+  ]
 }

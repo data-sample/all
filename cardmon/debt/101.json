@@ -8,5 +8,35 @@
   "paidAmount": 1750000,
   "leftAmount": 100000, 
   "currency": "UZS",
-  "note": "Обещал вернуть в срок (посмотрим)"
+  "note": "Jigulini tuzatishga",
+  "history": [
+    {
+      "id": 101,
+      "debtId": 101,
+      "amount": 1000000,
+      "date": "2019-03-24T16:45:11.985GMT+0500",
+      "note": "Jiguliga zapchastga"
+    },
+    {
+      "id": 102,
+      "debtId": 101,
+      "amount": -750000,
+      "date": "2019-04-24T16:45:11.985GMT+0500",
+      "note": "Plastikdan payme qilvordim"
+    },
+    {
+      "id": 103,
+      "debtId": 101,
+      "amount": 850000,
+      "date": "2019-04-30T16:45:11.985GMT+0500",
+      "note": "Shinalarni almashtirishga"
+    },
+    {
+      "id": 104,
+      "debtId": 101,
+      "amount": -1000000,
+      "date": "2019-06-10T16:45:11.985GMT+0500",
+      "note": "Oylikdan naqd berdim (do'konda)"
+    }
+  ]
 }
